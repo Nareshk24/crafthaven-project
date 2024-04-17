@@ -24,13 +24,13 @@ const Header = () => {
           <LinkContainer to="/">
             <Navbar.Brand>
               <img
-                alt="Kalakriti"
+                alt="CraftHaven"
                 src={logo}
                 width="64"
                 height="64"
                 className="d-inline-block align-middle"
               />
-              &nbsp;&nbsp; KalaKriti
+                          &nbsp;&nbsp; CraftHaven
             </Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle

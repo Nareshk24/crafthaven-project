@@ -7,18 +7,18 @@ export const contactItems = [
     id: 1,
     icon: <HiMail />,
     title: 'email',
-    description: 'contact@shopkalakriti.live',
+        description: 'contact@shopCraftHaven.live',
   },
   {
     id: 2,
     icon: <FaTwitterSquare />,
     title: 'twitter',
-    description: 'shop.kalakriti',
+      description: 'shop.CraftHaven',
   },
   {
     id: 3,
     icon: <FaInstagram />,
     title: 'instagram',
-    description: 'shop.kalakriti',
+      description: 'shop.CraftHaven',
   },
 ];

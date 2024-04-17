@@ -1,0 +1,1507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\static\\js\\main.866bd4cf.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\static\\js\\main.866bd4cf.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\public\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_ab0ded2e\\OpenFolder\\VSWorkspaceSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\userRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\routes\\userRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\actions\\userActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\actions\\userActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\reducers\\userReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\reducers\\userReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\seeder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\seeder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\productRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\routes\\productRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\uploadRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\routes\\uploadRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\asset-manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\asset-manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\logo192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\logo192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\logo512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\logo512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\robots.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\robots.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\node_modules\\.bin\\acorn||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\node_modules\\.bin\\acorn||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\serviceWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\public\\serviceWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\actions\\productActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\actions\\productActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\actions\\orderActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\actions\\orderActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\actions\\cartActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\actions\\cartActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\SearchBox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\SearchBox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\ProductCarousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\ProductCarousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Paginate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Paginate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Meta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Meta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Message.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Message.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Loader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Loader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\FormContainer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\FormContainer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\Contact.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\Contact.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\CheckoutSteps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\CheckoutSteps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\BlogCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\BlogCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\components\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\constants\\orderConstants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\constants\\orderConstants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\constants\\cartConstants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\constants\\cartConstants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\constants\\contactConstant.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\constants\\contactConstant.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\reducers\\productReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\reducers\\productReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\reducers\\orderReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\reducers\\orderReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\reducers\\cartReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\reducers\\cartReducers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\OrderListScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\OrderListScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\LoginScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\LoginScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\PaymentScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\PaymentScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductEditScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\ProductEditScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductListScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\ProductListScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\ProductScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\ProfileScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\ProfileScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\RegisterScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\RegisterScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\ShippingScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\ShippingScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\SingleBlogScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\SingleBlogScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\UserEditScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\UserEditScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\UserListScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\UserListScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\serviceWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\serviceWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\HomeScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\HomeScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\build\\static\\js\\main.866bd4cf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\build\\static\\js\\main.866bd4cf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\CartScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\CartScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\src\\screens\\BlogScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\screens\\BlogScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088850023.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\image-1679088850023.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088887751.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\image-1679088887751.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088871610.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\image-1679088871610.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088792328.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\image-1679088792328.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088807742.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\image-1679088807742.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088782330.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\image-1679088782330.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\config\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\config\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\controllers\\orderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\controllers\\orderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\data\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\data\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\data\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\data\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\middleware\\authMiddleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\middleware\\authMiddleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\userModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\models\\userModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\productModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\models\\productModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\orderModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\models\\orderModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\orderRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\routes\\orderRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\utils\\generateToken.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\utils\\generateToken.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\manifest.json",
+              "RelativeDocumentMoniker": "frontend\\public\\manifest.json",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\manifest.json",
+              "RelativeToolTip": "frontend\\public\\manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T12:45:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\index.html",
+              "RelativeDocumentMoniker": "frontend\\public\\index.html",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\frontend\\public\\index.html",
+              "RelativeToolTip": "frontend\\public\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T12:45:23.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.866bd4cf.js.map",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\static\\js\\main.866bd4cf.js.map",
+              "RelativeDocumentMoniker": "frontend\\build\\static\\js\\main.866bd4cf.js.map",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\static\\js\\main.866bd4cf.js.map",
+              "RelativeToolTip": "frontend\\build\\static\\js\\main.866bd4cf.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPxpgA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T12:40:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VSWorkspaceSettings.json",
+              "DocumentMoniker": "C:\\Users\\kunch\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_ab0ded2e\\OpenFolder\\VSWorkspaceSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_ab0ded2e\\OpenFolder\\VSWorkspaceSettings.json",
+              "ToolTip": "C:\\Users\\kunch\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_ab0ded2e\\OpenFolder\\VSWorkspaceSettings.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_ab0ded2e\\OpenFolder\\VSWorkspaceSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T12:35:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\package.json",
+              "RelativeDocumentMoniker": "frontend\\package.json",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\package.json",
+              "RelativeToolTip": "frontend\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T12:31:55.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userRoutes.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\userRoutes.js",
+              "RelativeDocumentMoniker": "backend\\routes\\userRoutes.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\userRoutes.js",
+              "RelativeToolTip": "backend\\routes\\userRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-17T10:53:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T10:53:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T10:52:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "userActions.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\userActions.js",
+              "RelativeDocumentMoniker": "frontend\\src\\actions\\userActions.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\userActions.js",
+              "RelativeToolTip": "frontend\\src\\actions\\userActions.js",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAhwJkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:20:10.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userReducers.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\userReducers.js",
+              "RelativeDocumentMoniker": "frontend\\src\\reducers\\userReducers.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\userReducers.js",
+              "RelativeToolTip": "frontend\\src\\reducers\\userReducers.js",
+              "ViewState": "AQIAACMAAAAAAAAAAAAhwCwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:15:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\index.html",
+              "RelativeDocumentMoniker": "frontend\\build\\index.html",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\index.html",
+              "RelativeToolTip": "frontend\\build\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIBAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T12:20:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T10:36:56.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "seeder.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\seeder.js",
+              "RelativeDocumentMoniker": "backend\\seeder.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\seeder.js",
+              "RelativeToolTip": "backend\\seeder.js",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:26:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "productRoutes.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\productRoutes.js",
+              "RelativeDocumentMoniker": "backend\\routes\\productRoutes.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\productRoutes.js",
+              "RelativeToolTip": "backend\\routes\\productRoutes.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "uploadRoutes.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\uploadRoutes.js",
+              "RelativeDocumentMoniker": "backend\\routes\\uploadRoutes.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\uploadRoutes.js",
+              "RelativeToolTip": "backend\\routes\\uploadRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:05.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\server.js",
+              "RelativeDocumentMoniker": "backend\\server.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\server.js",
+              "RelativeToolTip": "backend\\server.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:26:09.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "asset-manifest.json",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\asset-manifest.json",
+              "RelativeDocumentMoniker": "frontend\\build\\asset-manifest.json",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\asset-manifest.json",
+              "RelativeToolTip": "frontend\\build\\asset-manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T12:21:13.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "logo192.png -  [English (United States)] - PNG [192x192, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\logo192.png",
+              "RelativeDocumentMoniker": "frontend\\build\\logo192.png",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\logo192.png -  [English (United States)] - PNG [192x192, 32 bit, PNG]",
+              "RelativeToolTip": "frontend\\build\\logo192.png -  [English (United States)] - PNG [192x192, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T12:21:10.226Z",
+              "EditorCaption": " -  [English (United States)] - PNG [192x192, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "logo512.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\logo512.png",
+              "RelativeDocumentMoniker": "frontend\\build\\logo512.png",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\logo512.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "frontend\\build\\logo512.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T12:21:08.833Z",
+              "EditorCaption": " -  [English (United States)] - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "robots.txt",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\robots.txt",
+              "RelativeDocumentMoniker": "frontend\\build\\robots.txt",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\robots.txt",
+              "RelativeToolTip": "frontend\\build\\robots.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T12:21:06.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "acorn",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\node_modules\\.bin\\acorn",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\.bin\\acorn",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\node_modules\\.bin\\acorn",
+              "RelativeToolTip": "frontend\\node_modules\\.bin\\acorn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T12:20:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "serviceWorker.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\public\\serviceWorker.js",
+              "RelativeDocumentMoniker": "frontend\\public\\serviceWorker.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\public\\serviceWorker.js",
+              "RelativeToolTip": "frontend\\public\\serviceWorker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:20:18.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "productActions.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\productActions.js",
+              "RelativeDocumentMoniker": "frontend\\src\\actions\\productActions.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\productActions.js",
+              "RelativeToolTip": "frontend\\src\\actions\\productActions.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:20:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "orderActions.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\orderActions.js",
+              "RelativeDocumentMoniker": "frontend\\src\\actions\\orderActions.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\orderActions.js",
+              "RelativeToolTip": "frontend\\src\\actions\\orderActions.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:20:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "cartActions.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\cartActions.js",
+              "RelativeDocumentMoniker": "frontend\\src\\actions\\cartActions.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\actions\\cartActions.js",
+              "RelativeToolTip": "frontend\\src\\actions\\cartActions.js",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:19:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Services.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Services.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Services.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Services.js",
+              "RelativeToolTip": "frontend\\src\\components\\Services.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:19:39.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SearchBox.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\SearchBox.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\SearchBox.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\SearchBox.js",
+              "RelativeToolTip": "frontend\\src\\components\\SearchBox.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:19:29.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductCarousel.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\ProductCarousel.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\ProductCarousel.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\ProductCarousel.js",
+              "RelativeToolTip": "frontend\\src\\components\\ProductCarousel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:19:24.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Product.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Product.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Product.js",
+              "RelativeToolTip": "frontend\\src\\components\\Product.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:19:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Paginate.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Paginate.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Paginate.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Paginate.js",
+              "RelativeToolTip": "frontend\\src\\components\\Paginate.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:19:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Meta.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Meta.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Meta.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Meta.js",
+              "RelativeToolTip": "frontend\\src\\components\\Meta.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:18:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Message.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Message.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Message.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Message.js",
+              "RelativeToolTip": "frontend\\src\\components\\Message.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:18:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Loader.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Loader.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Loader.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Loader.js",
+              "RelativeToolTip": "frontend\\src\\components\\Loader.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:18:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Header.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Header.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Header.js",
+              "RelativeToolTip": "frontend\\src\\components\\Header.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAhwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:17:56.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormContainer.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\FormContainer.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\FormContainer.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\FormContainer.js",
+              "RelativeToolTip": "frontend\\src\\components\\FormContainer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:17:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Footer.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Footer.js",
+              "RelativeToolTip": "frontend\\src\\components\\Footer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:17:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Contact.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\Contact.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\Contact.js",
+              "RelativeToolTip": "frontend\\src\\components\\Contact.js",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:17:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CheckoutSteps.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\CheckoutSteps.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\CheckoutSteps.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\CheckoutSteps.js",
+              "RelativeToolTip": "frontend\\src\\components\\CheckoutSteps.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:17:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BlogCard.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\BlogCard.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\BlogCard.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\BlogCard.js",
+              "RelativeToolTip": "frontend\\src\\components\\BlogCard.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:17:11.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "About.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\About.js",
+              "RelativeDocumentMoniker": "frontend\\src\\components\\About.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\components\\About.js",
+              "RelativeToolTip": "frontend\\src\\components\\About.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:16:51.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "orderConstants.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\constants\\orderConstants.js",
+              "RelativeDocumentMoniker": "frontend\\src\\constants\\orderConstants.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\constants\\orderConstants.js",
+              "RelativeToolTip": "frontend\\src\\constants\\orderConstants.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:16:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "cartConstants.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\constants\\cartConstants.js",
+              "RelativeDocumentMoniker": "frontend\\src\\constants\\cartConstants.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\constants\\cartConstants.js",
+              "RelativeToolTip": "frontend\\src\\constants\\cartConstants.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:16:41.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "contactConstant.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\constants\\contactConstant.js",
+              "RelativeDocumentMoniker": "frontend\\src\\constants\\contactConstant.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\constants\\contactConstant.js",
+              "RelativeToolTip": "frontend\\src\\constants\\contactConstant.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:15:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "productReducers.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\productReducers.js",
+              "RelativeDocumentMoniker": "frontend\\src\\reducers\\productReducers.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\productReducers.js",
+              "RelativeToolTip": "frontend\\src\\reducers\\productReducers.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:15:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "orderReducers.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\orderReducers.js",
+              "RelativeDocumentMoniker": "frontend\\src\\reducers\\orderReducers.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\orderReducers.js",
+              "RelativeToolTip": "frontend\\src\\reducers\\orderReducers.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:15:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "cartReducers.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\cartReducers.js",
+              "RelativeDocumentMoniker": "frontend\\src\\reducers\\cartReducers.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\reducers\\cartReducers.js",
+              "RelativeToolTip": "frontend\\src\\reducers\\cartReducers.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:15:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PaymentScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\PaymentScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\PaymentScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\PaymentScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\PaymentScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:14:45.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductEditScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductEditScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\ProductEditScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductEditScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\ProductEditScreen.js",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:14:27.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductListScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductListScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\ProductListScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductListScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\ProductListScreen.js",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:14:03.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\ProductScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProductScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\ProductScreen.js",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:13:39.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProfileScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProfileScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\ProfileScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ProfileScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\ProfileScreen.js",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:13:13.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\LoginScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\LoginScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\LoginScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\LoginScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:43:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderListScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\OrderListScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\OrderListScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\OrderListScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\OrderListScreen.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:43:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RegisterScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\RegisterScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\RegisterScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\RegisterScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\RegisterScreen.js",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:13:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ShippingScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ShippingScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\ShippingScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\ShippingScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\ShippingScreen.js",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:12:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SingleBlogScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\SingleBlogScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\SingleBlogScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\SingleBlogScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\SingleBlogScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:12:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserEditScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\UserEditScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\UserEditScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\UserEditScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\UserEditScreen.js",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:12:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\README.md",
+              "RelativeDocumentMoniker": "frontend\\README.md",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\README.md",
+              "RelativeToolTip": "frontend\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-17T10:57:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "store.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\store.js",
+              "RelativeDocumentMoniker": "frontend\\src\\store.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\store.js",
+              "RelativeToolTip": "frontend\\src\\store.js",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:50:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "serviceWorker.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\serviceWorker.js",
+              "RelativeDocumentMoniker": "frontend\\src\\serviceWorker.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\serviceWorker.js",
+              "RelativeToolTip": "frontend\\src\\serviceWorker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:50:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\index.js",
+              "RelativeDocumentMoniker": "frontend\\src\\index.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\index.js",
+              "RelativeToolTip": "frontend\\src\\index.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:49:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T10:35:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\index.css",
+              "RelativeDocumentMoniker": "frontend\\src\\index.css",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\index.css",
+              "RelativeToolTip": "frontend\\src\\index.css",
+              "ViewState": "AQIAAOMBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T10:50:26.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\App.js",
+              "RelativeToolTip": "frontend\\src\\App.js",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:29:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserListScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\UserListScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\UserListScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\UserListScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\UserListScreen.js",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:50:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "frontend\\src\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\bootstrap.min.css",
+              "RelativeToolTip": "frontend\\src\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T10:50:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "file.txt",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\file.txt",
+              "RelativeDocumentMoniker": "uploads\\file.txt",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\file.txt",
+              "RelativeToolTip": "uploads\\file.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T10:40:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HomeScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\HomeScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\HomeScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\HomeScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\HomeScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:42:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CartScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\CartScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\CartScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\CartScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\CartScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:42:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BlogScreen.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\BlogScreen.js",
+              "RelativeDocumentMoniker": "frontend\\src\\screens\\BlogScreen.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\src\\screens\\BlogScreen.js",
+              "RelativeToolTip": "frontend\\src\\screens\\BlogScreen.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:41:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "main.866bd4cf.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\static\\js\\main.866bd4cf.js",
+              "RelativeDocumentMoniker": "frontend\\build\\static\\js\\main.866bd4cf.js",
+              "ToolTip": "C:\\Users\\kunch\\Source\\Repos\\shopkalakriti.live\\frontend\\build\\static\\js\\main.866bd4cf.js",
+              "RelativeToolTip": "frontend\\build\\static\\js\\main.866bd4cf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACNrQYA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:41:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "image-1679088887751.jpg -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088887751.jpg",
+              "RelativeDocumentMoniker": "uploads\\image-1679088887751.jpg",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088887751.jpg -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]",
+              "RelativeToolTip": "uploads\\image-1679088887751.jpg -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T10:40:50.338Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "image-1679088871610.jpg -  [English (United States)] - Bitmap [1080x742, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088871610.jpg",
+              "RelativeDocumentMoniker": "uploads\\image-1679088871610.jpg",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088871610.jpg -  [English (United States)] - Bitmap [1080x742, 24 bit, JPG]",
+              "RelativeToolTip": "uploads\\image-1679088871610.jpg -  [English (United States)] - Bitmap [1080x742, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T10:40:48.166Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1080x742, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "image-1679088850023.jpg -  [English (United States)] - Bitmap [960x960, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088850023.jpg",
+              "RelativeDocumentMoniker": "uploads\\image-1679088850023.jpg",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088850023.jpg -  [English (United States)] - Bitmap [960x960, 24 bit, JPG]",
+              "RelativeToolTip": "uploads\\image-1679088850023.jpg -  [English (United States)] - Bitmap [960x960, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T10:40:47.13Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [960x960, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "image-1679088792328.jpg -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088792328.jpg",
+              "RelativeDocumentMoniker": "uploads\\image-1679088792328.jpg",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088792328.jpg -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]",
+              "RelativeToolTip": "uploads\\image-1679088792328.jpg -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T10:40:46.031Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1080x810, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "image-1679088807742.jpg -  [English (United States)] - Bitmap [1080x800, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088807742.jpg",
+              "RelativeDocumentMoniker": "uploads\\image-1679088807742.jpg",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088807742.jpg -  [English (United States)] - Bitmap [1080x800, 24 bit, JPG]",
+              "RelativeToolTip": "uploads\\image-1679088807742.jpg -  [English (United States)] - Bitmap [1080x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T10:40:44.937Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1080x800, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "image-1679088782330.jpg -  [English (United States)] - Bitmap [1080x1245, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088782330.jpg",
+              "RelativeDocumentMoniker": "uploads\\image-1679088782330.jpg",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\uploads\\image-1679088782330.jpg -  [English (United States)] - Bitmap [1080x1245, 24 bit, JPG]",
+              "RelativeToolTip": "uploads\\image-1679088782330.jpg -  [English (United States)] - Bitmap [1080x1245, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-17T10:40:43.084Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1080x1245, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\config\\db.js",
+              "RelativeDocumentMoniker": "backend\\config\\db.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\config\\db.js",
+              "RelativeToolTip": "backend\\config\\db.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:28:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "orderController.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\controllers\\orderController.js",
+              "RelativeDocumentMoniker": "backend\\controllers\\orderController.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\controllers\\orderController.js",
+              "RelativeToolTip": "backend\\controllers\\orderController.js",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:28:14.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\data\\users.js",
+              "RelativeDocumentMoniker": "backend\\data\\users.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\data\\users.js",
+              "RelativeToolTip": "backend\\data\\users.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:28:08.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "products.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\data\\products.js",
+              "RelativeDocumentMoniker": "backend\\data\\products.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\data\\products.js",
+              "RelativeToolTip": "backend\\data\\products.js",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:28:00.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "authMiddleware.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\middleware\\authMiddleware.js",
+              "RelativeDocumentMoniker": "backend\\middleware\\authMiddleware.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\middleware\\authMiddleware.js",
+              "RelativeToolTip": "backend\\middleware\\authMiddleware.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:39.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "userModel.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\userModel.js",
+              "RelativeDocumentMoniker": "backend\\models\\userModel.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\userModel.js",
+              "RelativeToolTip": "backend\\models\\userModel.js",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "productModel.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\productModel.js",
+              "RelativeDocumentMoniker": "backend\\models\\productModel.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\productModel.js",
+              "RelativeToolTip": "backend\\models\\productModel.js",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "orderModel.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\orderModel.js",
+              "RelativeDocumentMoniker": "backend\\models\\orderModel.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\models\\orderModel.js",
+              "RelativeToolTip": "backend\\models\\orderModel.js",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:27:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "orderRoutes.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\orderRoutes.js",
+              "RelativeDocumentMoniker": "backend\\routes\\orderRoutes.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\routes\\orderRoutes.js",
+              "RelativeToolTip": "backend\\routes\\orderRoutes.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:26:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "generateToken.js",
+              "DocumentMoniker": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\utils\\generateToken.js",
+              "RelativeDocumentMoniker": "backend\\utils\\generateToken.js",
+              "ToolTip": "C:\\Users\\kunch\\source\\repos\\shopkalakriti.live\\backend\\utils\\generateToken.js",
+              "RelativeToolTip": "backend\\utils\\generateToken.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T10:26:50.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
