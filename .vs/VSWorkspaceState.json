@@ -4,8 +4,8 @@
     "\\backend",
     "\\frontend",
     "\\frontend\\public",
-    "\\frontend\\src",
-    "\\frontend\\src\\assets"
+    "\\frontend\\src"
   ],
+  "SelectedNode": "\\frontend\\package.json",
   "PreviewInSolutionExplorer": false
 }
